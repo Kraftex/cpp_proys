@@ -1,0 +1,17 @@
+fps
+30
+
+winx
+1280
+
+winy
+720
+
+cellsize
+5
+
+bgcol
+150 150 150
+
+fgcol
+25 25 25
